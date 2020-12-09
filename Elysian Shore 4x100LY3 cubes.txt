@@ -1,4 +1,7 @@
 first cube results
+===========
+=============
+===============
 High Metal Content World (Terraformable) = 172
 Rocky Body (Terraformable) = 3
 Water World (Terraformable) = 33
@@ -9,7 +12,11 @@ Total number of high value surface-scannable bodies = 268
 Total number of systems discovered first = 1031
 Total number of systems already discovered = data not available (I estimate less than a dozen systems in this category)
 
+
 second cube results
+===========
+=============
+===============
 High Metal Content World (Terraformable) = 146
 Rocky Body (Terraformable) = 5
 Water World (Terraformable) = 27
@@ -18,9 +25,14 @@ Ammonia World (Non-Terraformable) = 17
 Earthlike World = 2
 Total number of high value surface-scannable bodies = 228
 Total number of systems discovered first = 974
-Total number of systems already discovered = 7 (Cheers CMDRs! The work you started in this sector is now complete: CMDR MATHISON VAN MACALIS, CMDR KEEPERLIGHT, CMDR JYNESSA LORAEYN, CMDR ILITERATSQIREL, CMDR CAIRNBURN)
+Total number of systems already discovered = 7 
+(Cheers CMDRs! The work you started in this sector is now complete: CMDR MATHISON VAN MACALIS, CMDR KEEPERLIGHT, CMDR JYNESSA LORAEYN, CMDR ILITERATSQIREL, CMDR CAIRNBURN)
+
 
 third cube results
+===========
+=============
+===============
 High Metal Content World (Terraformable) = 133
 Rocky Body (Terraformable) = 13
 Water World (Terraformable) = 27
@@ -30,11 +42,16 @@ Earthlike World = 3
 Total number of high value surface-scannable bodies = 228
 Notable Stellar Bodies ( /u/skyharbor6 ) = 4 (Class 'B' = 3 | Red Giant 'M' = 1)
 Total number of systems discovered first = 952
-Total number of systems already discovered = 21 (Cheers CMDRs! The work you started in this sector is now complete: CMDR ILITERATSQIREL(x1), CMDR MATHISON VAN MACALIS(x2), CMDR GLOCKENATOR(x18))
+Total number of systems already discovered = 21 
+(Cheers CMDRs! The work you started in this sector is now complete: CMDR ILITERATSQIREL(x1), CMDR MATHISON VAN MACALIS(x2), CMDR GLOCKENATOR(x18))
 Credits earned before the 25% fleet carrier tariff ( /u/DataSomethingsGotMe ) = 591,968,377 CR
 Actual credits I earned after the 25% fleet carrier tariff = 443,976,283 CR
 
+
 fourth cube results
+===========
+=============
+===============
 High Metal Content World (Terraformable) = 133
 Rocky Body (Terraformable) = 2
 Water World (Terraformable) = 32
@@ -44,11 +61,16 @@ Earthlike World = 5
 Total number of high value surface-scannable bodies = 219
 Notable Stellar Bodies ( /u/skyharbor6 ) = 1 (Class 'B' = 1)
 Total number of systems discovered first = 951
-Total number of systems already discovered = 10 (Cheers CMDRs! The work you started in this sector is now complete: CMDR GLOCKENATOR(x6), CMDR KING DURAS(x2), CMDR SIR ERDINGER(x1), CMDR KETTUKLAANI(x1))
+Total number of systems already discovered = 10 
+(Cheers CMDRs! The work you started in this sector is now complete: CMDR GLOCKENATOR(x6), CMDR KING DURAS(x2), CMDR SIR ERDINGER(x1), CMDR KETTUKLAANI(x1))
 Credits earned before the 25% fleet carrier tariff ( /u/DataSomethingsGotMe ) = 576,583,827 CR
 Actual credits I earned after the 25% fleet carrier tariff = 432,437,870 CR
 
-total results from Elysian Shore
+
+total results from 4X Elysian Shore Cubes
+===========
+=============
+===============
 High Metal Content World (Terraformable) = 584
 Rocky Body (Terraformable) = 23
 Water World (Terraformable) = 119
@@ -78,6 +100,7 @@ HYPHEERLD DR-Z C15-3 (B3)
 HYPHEERLD HR-L D8-29 (2)
 HYPHEERLD FW-L D8-31 (CDE3)
 HYPHEERLD IX-X C16-0 (AB3)
+
 
 Ammonia Worlds
 ===========
@@ -210,13 +233,10 @@ HYPHEERLD FC-Y C16-2 - system with three separate terraformable binary pairs in 
 
 
 
-===========
-=============
-===============
 CODEX ENTRIES
-===============
-=============
 ===========
+=============
+===============
 
 GEOLOGICAL
 ===========
@@ -258,6 +278,20 @@ NOTABLE STARS
 HYPHEERLD RY-R E4-7 - B Type Giant 
 HYPHEERLD FW-L D8-42 - K Type Giant
 HYPHEERLD OS-T E3-3 - Herbig Ae/Be (actually ~20Ly directly below the cubes but I include it here)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
