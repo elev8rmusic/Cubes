@@ -1,0 +1,265 @@
+first cube results
+High Metal Content World (Terraformable) = 172
+Rocky Body (Terraformable) = 3
+Water World (Terraformable) = 33
+Water World (Non-Terraformable) = 49
+Ammonia World (Non-Terraformable) = 7
+Earthlike World = 4
+Total number of high value surface-scannable bodies = 268
+Total number of systems discovered first = 1031
+Total number of systems already discovered = data not available (I estimate less than a dozen systems in this category)
+
+second cube results
+High Metal Content World (Terraformable) = 146
+Rocky Body (Terraformable) = 5
+Water World (Terraformable) = 27
+Water World (Non-Terraformable) = 31
+Ammonia World (Non-Terraformable) = 17
+Earthlike World = 2
+Total number of high value surface-scannable bodies = 228
+Total number of systems discovered first = 974
+Total number of systems already discovered = 7 (Cheers CMDRs! The work you started in this sector is now complete: CMDR MATHISON VAN MACALIS, CMDR KEEPERLIGHT, CMDR JYNESSA LORAEYN, CMDR ILITERATSQIREL, CMDR CAIRNBURN)
+
+third cube results
+High Metal Content World (Terraformable) = 133
+Rocky Body (Terraformable) = 13
+Water World (Terraformable) = 27
+Water World (Non-Terraformable) = 45
+Ammonia World (Non-Terraformable) = 7
+Earthlike World = 3
+Total number of high value surface-scannable bodies = 228
+Notable Stellar Bodies ( /u/skyharbor6 ) = 4 (Class 'B' = 3 | Red Giant 'M' = 1)
+Total number of systems discovered first = 952
+Total number of systems already discovered = 21 (Cheers CMDRs! The work you started in this sector is now complete: CMDR ILITERATSQIREL(x1), CMDR MATHISON VAN MACALIS(x2), CMDR GLOCKENATOR(x18))
+Credits earned before the 25% fleet carrier tariff ( /u/DataSomethingsGotMe ) = 591,968,377 CR
+Actual credits I earned after the 25% fleet carrier tariff = 443,976,283 CR
+
+fourth cube results
+High Metal Content World (Terraformable) = 133
+Rocky Body (Terraformable) = 2
+Water World (Terraformable) = 32
+Water World (Non-Terraformable) = 36
+Ammonia World (Non-Terraformable) = 10
+Earthlike World = 5
+Total number of high value surface-scannable bodies = 219
+Notable Stellar Bodies ( /u/skyharbor6 ) = 1 (Class 'B' = 1)
+Total number of systems discovered first = 951
+Total number of systems already discovered = 10 (Cheers CMDRs! The work you started in this sector is now complete: CMDR GLOCKENATOR(x6), CMDR KING DURAS(x2), CMDR SIR ERDINGER(x1), CMDR KETTUKLAANI(x1))
+Credits earned before the 25% fleet carrier tariff ( /u/DataSomethingsGotMe ) = 576,583,827 CR
+Actual credits I earned after the 25% fleet carrier tariff = 432,437,870 CR
+
+total results from Elysian Shore
+High Metal Content World (Terraformable) = 584
+Rocky Body (Terraformable) = 23
+Water World (Terraformable) = 119
+Water World (Non-Terraformable) = 161
+Ammonia World (Non-Terraformable) = 41
+Earthlike World = 14
+Total number of high value surface-scannable bodies = 942
+Total number of systems discovered first = 3908
+
+
+
+Earth-Like Worlds
+===========
+=============
+===============
+HYPHEERLD UV-Q C20-10 (A4)
+HYPHEERLD KN-I D10-0 (B3)
+HYPHEERLD MO-U C18-14 (6)
+HYPHEERLD QE-U C18-8 (B7)
+HYPHEERLD HH-K D9-69 (BC4)
+HYPHEERLD NI-I D10-0 (4)
+HYPHEERLD DW-L D8-35 (B8)
+HYPHEERLD EC-Y C16-7 (B2)
+HYPHEERLD YU-N D7-42 (5)
+HYPHEERLD XQ-S B35-1 (3)
+HYPHEERLD DR-Z C15-3 (B3)
+HYPHEERLD HR-L D8-29 (2)
+HYPHEERLD FW-L D8-31 (CDE3)
+HYPHEERLD IX-X C16-0 (AB3)
+
+Ammonia Worlds
+===========
+=============
+===============
+HYPHEERLD ZI-N B38-4 (BC4)
+HYPHEERLD TP-S C19-7 (1)
+HYPHEERLD GH-K D9-32 (4)
+HYPHEERLD GP-L B39-3 (1)
+HYPHEERLD OW-H B41-1 (1)
+HYPHEERLD SM-H B41-0 (C2)
+HYPHEERLD YQ-Q C20-10 (4)
+HYPHEERLD VA-R C20-17 (C4)
+HYPHEERLD HH-K D9-40 (4)
+HYPHEERLD DD-P B37-2 (A8)
+HYPHEERLD NO-U C18-16 (4)
+HYPHEERLD TU-S C19-4 (2)
+HYPHEERLD VB-I B41-2 (9)
+HYPHEERLD NI-I D10-2 (A5)
+HYPHEERLD VQ-K B39-2 (2)
+HYPHEERLD ZQ-Q C20-4 (3)
+HYPHEERLD MI-I D10-53 (A1)
+HYPHEERLD XV-Q C20-0 (A2)
+HYPHEERLD JC-K D9-17 (B4)
+HYPHEERLD TP-S C19-2 (2)
+HYPHEERLD NI-I D10-39 (7)
+HYPHEERLD JC-K D9-38 (11)
+HYPHEERLD GH-K D9-21 (13)
+HYPHEERLD TU-S C19-0 (B4)
+HYPHEERLD DM-Z C15-3 (C2)
+HYPHEERLD YR-Q B36-0 (1)
+HYPHEERLD EC-Y C16-14 (B3)
+HYPHEERLD XB-S B35-2 (A2)
+HYPHEERLD BB-M D8-19 (4F)
+HYPHEERLD RQ-S B35-4 (5)
+HYPHEERLD DW-L D8-22 (6)
+HYPHEERLD OE-W B33-2 (AB6)
+HYPHEERLD LI-W C17-0 (A3)
+HYPHEERLD ES-R B35-2 (5)
+HYPHEERLD ZQ-T B34-1 (A3)
+HYPHEERLD FW-L D8-33 (7)
+HYPHEERLD HX-X C16-0 (4)
+HYPHEERLD QJ-U C18-2 (A2)
+HYPHEERLD FT-O B37-0 (A6)
+HYPHEERLD TF-U B34-0 (AB6)
+HYPHEERLD KI-W C17-9 (8)
+
+
+Notable Metal Rich bodies with surface features for material collecting
+===========
+=============
+===============
+HYPHEERLD QP-S C19-15 (B1,B2)
+HYPHEERLD DJ-N B38-3 (A1)
+HYPHEERLD NJ-U C18-10 (2)
+HYPHEERLD JC-K D9-5 (B1)
+HYPHEERLD VP-S C19-0 (B1)
+HYPHEERLD JC-K D9-51 (B1)
+HYPHEERLD IC-K D9-12 (1,2)
+HYPHEERLD PJ-U C18-0 (1)
+HYPHEERLD RE-U C18-8 (A1)
+HYPHEERLD WK-S C19-12 (1)
+HYPHEERLD VP-S C19-2 (A1)
+HYPHEERLD JC-K D9-39 (B2A,C1,C2)
+HYPHEERLD TP-S C19-10 (B1)
+HYPHEERLD MI-I D10-50 (B3A)
+HYPHEERLD GH-K D9-62 (A1)
+HYPHEERLD MK-L B39-4 (A1)
+HYPHEERLD HH-K D9-31 (1)
+HYPHEERLD TU-S C19-2 (C1,C2)
+HYPHEERLD BY-P B36-2 (A1)
+HYPHEERLD NT-V C17-8 (B1)
+HYPHEERLD GR-L D8-23 (A2)
+HYPHEERLD KN-X C16-8 (1)
+HYPHEERLD OT-V C17-6 (1)
+HYPHEERLD KN-X C16-0 (1)
+HYPHEERLD NY-V C17-10 (2)
+HYPHEERLD ZP-N D7-28 (1)
+HYPHEERLD CC-Y C16-5 (1)
+HYPHEERLD DW-L D8-5 (A2)
+HYPHEERLD EX-X C16-2 (A1A)
+HYPHEERLD DW-L D8-62 (B1A)
+HYPHEERLD HS-X C16-6 (A1)
+HYPHEERLD FX-X C16-11 (B1)
+HYPHEERLD DW-L D8-39 (D1,D2,D2A)
+HYPHEERLD EX-X C16-3 (B1,C1,D1)
+HYPHEERLD JX-X C16-1 (1)
+
+
+Overlapping mineral hotspots
+===========
+=============
+===============
+HYPHEERLD ZQ-Q C20-3 (AB5 icy = LTDx2 overlap)
+HYPHEERLD XV-Q C20-0 (A4 icy = TRITIUMx2 overlap/VOx2 overlap)
+HYPHEERLD YH-H B41-1 (14 icy = LTDx2 slight overlap)
+HYPHEERLD MP-M B38-0 (2 metal rich = RHODPLUMSITEx2 overlap)
+HYPHEERLD UL-J B40-1 (6 metal rich = GRANDIDERITEx2 overlap)
+HYPHEERLD JC-K D9-22 (3 metal rich = PAINITEx3 overlap/RHODPLUMSITEx4 overlap/PLATINUMx2 overlap/SERENDIBITEx2 overlap)
+HYPHEERLD NF-L B39-1 (2 metal rich = PAINITEx2 overlap)
+HYPHEERLD QJ-U C18-11 (3 metal rich = PLATINUMx2 overlap)
+HYPHEERLD FW-L D8-12 (3 metallic = PAINITEx2 slight overlap)
+HYPHEERLD BL-N D7-45 (A7 metallic = MONAZITEx2 overlap)
+
+
+Other metallic rings with mineral hotspots
+===========
+=============
+===============
+HYPHEERLD JC-K D9-25 (10 - PAINITE,SERENDIBITE)
+HYPHEERLD HH-K D9-30 (5 - PAINITE)
+HYPHEERLD VW-H B41-1 (1 - PAINITE)
+HYPHEERLD VW-H B41-3 (3 - PAINITE,MONAZITE,RHODPLUMSITE,SERENDIBITE)
+HYPHEERLD EW-L D8-13 (6 - SERENDIBITE,MONAZITE)
+HYPHEERLD BB-M D8-18 (4 - PAINITE,MONAZITE,RHODPLUMSITE,SERENDIBITE)
+HYPHEERLD HI-W C17-12 (AB1 - PAINITE,MONAZITE,RHODPLUMSITE,SERENDIBITE)
+HYPHEERLD FW-L D8-48 (A6 - RHODPLUMSITE,MONAZITE)
+
+
+POI
+===========
+=============
+===============
+HYPHEERLD AT-F B42-1 (ABC1) - 1.5 trillion megaton ring around this gas giant is so massive it's too far away to be scanned with the DSS.
+HYPHEERLD JP-M B38-3 - system with only two stars and one water world.
+HYPHEERLD VQ-T B34-1 - system with only three stars and one water world.
+HYPHEERLD MD-W C17-9 - system with only four stars and one water world.
+HYPHEERLD YB-S B35-2 - system with three terraformable water worlds in a row.
+HYPHEERLD FC-Y C16-2 - system with three separate terraformable binary pairs in a row.
+
+
+
+===========
+=============
+===============
+CODEX ENTRIES
+===============
+=============
+===========
+
+GEOLOGICAL
+===========
+=============
+===============
+HYPHEERLD DW-L D8-5 (A2) - Sulphur Dioxide Fumarole
+HYPHEERLD JD-W C17-0 (5B) - Water Fumarole
+HYPHEERLD BY-P B36-2 (A1) - Silicate Vapour Fumarole
+
+HYPHEERLD LJ-X B32-2 (2A) - Sulphur Dioxide Ice Fumarole
+HYPHEERLD LU-V B33-0 (5B)- Water Ice Fumarole
+HYPHEERLD LU-V B33-0 (5A)- Carbon Dioxide Ice Fumarole
+HYPHEERLD SV-T B34-2 (9A) - Ammonia Ice Fumarole
+HYPHEERLD VG-S B35-3 (7B) - Methane Ice Fumarole
+HYPHEERLD HS-X C16-10 (B5C) - Nitrogen Ice Fumarole
+HYPHEERLD EM-Z C15-6 (3A) - Silicate Vapour Ice Fumarole
+
+HYPHEERLD JD-W C17-0 (5B) - Water Geyser
+
+HYPHEERLD LU-V B33-0 (5B) - Water Ice Geyser
+HYPHEERLD LU-V B33-0 (5A) - Carbon Dioxide Ice Geyser
+HYPHEERLD MP-V B33-2 (4B) - Ammonia Ice Geyser
+HYPHEERLD MU-V B33-1 (3C) - Methane Ice Geyser
+HYPHEERLD OA-U B34-2 (3C) - Nitrogen Ice Geyser
+
+HYPHEERLD EC-Y C16-0 (B2) - Silicate Magma Lava Spout
+HYPHEERLD FH-K D9-38 (A1A) - Iron Magma Lava Spout
+
+HYPHEERLD DW-L D8-5 (A2) - Suphur Dioxide Gas Vent
+HYPHEERLD JD-W C17-0 (5B) - Water Gas Vent
+HYPHEERLD ZQ-Q C20-3 (AB3B) - Carbon Dioxide Gas Vent
+HYPHEERLD BY-P B36-2 (A1) - Silicate Vapour Gas Vent
+
+
+NOTABLE STARS
+===========
+=============
+===============
+HYPHEERLD RY-R E4-7 - B Type Giant 
+HYPHEERLD FW-L D8-42 - K Type Giant
+HYPHEERLD OS-T E3-3 - Herbig Ae/Be (actually ~20Ly directly below the cubes but I include it here)
+
+
+
+
+
