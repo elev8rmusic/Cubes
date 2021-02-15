@@ -114,7 +114,9 @@ A2 = MR = SERENx1
      ICY = BROMx1, GRANDx1
 A3 = ICY = GRANDx2, VOx1, ALEXx1, BROMx1, LTDx1
 
-
+* EOR AEWSY XN-W B1-0
+2 = ICY = ALEXx1, LTDx1, BROMx1
+3 = ICY = BROMx5, BROM/TRIT overlap, VOx2, LTDx8, ALEXx6, GRANDx4, TRIT/ALEX/GRAND overlap, **VO/LTD/TRITX2 OVERLAP**
 
 
 
@@ -147,7 +149,7 @@ B1 = ANT 1.3%, CAD 2.7%
 * EORD HYPUE GW-C D1
 3 = good for arsenic. 2 other landable HMC in the system with geos.
 
-* EOR AEWSY TH-Y B0 (HMTx2)
+* EOR AEWSY TH-Y B0 (HMCx2)
 B1 = TELL 1.2%, NIO 1.5%, CAD 1.7%, ARS 2.1%
 B2 = TELL 1.2%, NIO 1.5%, CAD 1.7%, ZIRC 2.6%
 
