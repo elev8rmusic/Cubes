@@ -16,12 +16,16 @@ ORIGIN POINT SYSTEM - EORD HYPUE ND-G B3-0 (in first cube)
 *) EORD HYPUE OS-F C0 (WTx1)
 *) EORD HYPUE SY-D C1-1 (HMTx1)
 *) EORD HYPUE GW-J B1-0 (Wx1)
+*) AICOSP GY-U B57-0 (Ax1)
+*) AICOSP FY-U B57-0 (HMTx1, Ax1)
+
+
 
 
 **********************************
 ***SECOND CUBE TOUCHED SYSTEMS ***
 **********************************
-***  3                         ***
+***  5  1                      ***
 ***                            ***
 ***                            ***
 ***                            ***
@@ -33,7 +37,9 @@ Listed:
 * EORD HYPUE CQ-L B0
 * EOR AEWSY AH-Y C1
 * EOR AEWSY VG-A B0
-
+* EOR AEWSY RG-A B0
+* AICOSP KZ-S B58-0
+* AICOSP MZ-S B58-0
 
 
 
@@ -59,6 +65,13 @@ FORMIDINE CUBE#2 RINGS
 D4 = ICY = LTDx1
 D5A = ROCKY = BENx1, MONAZx2, SERENx1, ALEXx1, MUSGx1
 
+* EOR AEWSY TG-A B0
+2A = METALLIC = PLATx1, SERENx1
+3A = MR = PLATx7, RHODx6, SERENx5, MONAx4, PAINx2
+3B = ICY = ALEXx4, LTD/ALEX overlap, ***TRITIUMx2 OVERLAP***
+
+* AICOSP MZ-5 B58-0
+2A = MR = PAINx1, SERENx1
 
 
 
