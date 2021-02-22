@@ -19,13 +19,13 @@ ORIGIN POINT SYSTEM - EORD HYPUE ND-G B3-0 (in first cube)
 *) AICOSP GY-U B57-0 (Ax1)
 *) AICOSP FY-U B57-0 (HMTx1, Ax1)
 *) EOR AEWSY LA-A D2 (HMTx1, Wx1, WTx1)
-*) EOR AEWSY LA-A D9 (HMTx1)
+* EOR AEWSY LA-A D9 (HMTx1)
 
 
 **********************************
 ***SECOND CUBE TOUCHED SYSTEMS ***
 **********************************
-***  5  2                      ***
+***  5  3                      ***
 ***                            ***
 ***                            ***
 ***                            ***
@@ -41,7 +41,7 @@ Listed:
 * AICOSP KZ-S B58-0
 * AICOSP MZ-S B58-0
 * AICOSP TO-Z D13-1
-
+* EOR AEWSY LA-A D9
 
 
 FORMIDINE CUBE#2 RINGS 
