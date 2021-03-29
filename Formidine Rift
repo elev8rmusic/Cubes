@@ -142,7 +142,7 @@ ORIGIN POINT SYSTEM - EORD HYPUE ND-G B3-0 (in first cube)
 **********************************
 *** THIRD CUBE TOUCHED SYSTEMS ***
 **********************************
-***   5   5   5   4            ***
+***   5   5   5   5            ***
 ***                            ***
 ***                            ***
 ***                            ***
@@ -155,6 +155,9 @@ Listed:
 * EOR AEWSY ZA-A C1
 * EOR AEWSY MA-A D8
 * EOR AEWSY EL-Y B0
+* EORD HYPUE JW-C D7
+  * B10A - BIO!!!
+      * Crystalline Shards x?? (POLONIUM)
 * AICOSP UZ-S B58-0
 * PHROEA DRYIAE NB-D C29-1
 * PHROEA DRYIAE BJ-E B59-0
@@ -227,6 +230,9 @@ FORMIDINE CUBE#2 POI
 ORIGIN POINT SYSTEM - EORD HYPUE ND-G B3-0 (in first cube)
 *) PHROEA DRYIAE YI-E B59-0 (Wx1)
 *) EORD HYPUE OS-F C0 (WTx1)
+*) EOR AEWSY LA-A D2 (HMTx1, Wx1, WTx1) 
+  * B9A - BIO!!!
+      * Crystalline Shards x?? (RUTHENIUM)
 *) EORD HYPUE SY-D C1-1 (HMTx1)
 *) EORD HYPUE GW-J B1-0 (Wx1)
 *) AICOSP GY-U B57-0 (Ax1)
