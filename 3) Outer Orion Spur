@@ -95,6 +95,18 @@ A3 = ICY = LTDx2, GRANDx1, TRITx2
 9 = ICY = ***LTDx2 OVERLAP***, BROM/LTD overlap, ALEX/VO overlap, VO/GRAND overlap, TRIT/BROM overlap, GRANDx1, LTDx1, VOx2, ALEXx1
 10 = ICY = /
 
+* BLU THEIA BC-C B3-0
+ 2 = ICY = VOx3, BROMx1, LTDx1, TRITx2
+ 3A = MR = RHODx1, PAINx1
+ 3B = ICY = LTDx2, BROMx1, VOx1, TRITx3, GRAND/TRIT overlap
+
+* BLU THEIA
+* BLU THEIA
+* BLU THEIA
+* BLU THEIA
+
+
+
 
 
 *******************************************
