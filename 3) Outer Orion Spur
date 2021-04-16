@@ -42,7 +42,7 @@ ORIGIN POINT SYSTEM - BLU THEIA TC-C B1
 *) BLU THEIA YO-A D12 (HMTx2, Wx2)
 *) BLU THEIA YO-A D11 (Wx1) ringed waterworld honkin thiccboi
 *) BLU THEIA ZT-Y B1-1 (WTx1)
-*) 
+*) BLU THEIA XO-A D3 (HMTx2)
 *) 
 *) 
 *) 
@@ -262,7 +262,14 @@ B12 = ICY = /
 * BLU THEIA YO-A D11
 6A = ROCKY = SERENx1
 
-* BLU THEIA 
+* BLU THEIA XO-A D3
+A3A = MR = /
+A3B = ROCKY = ALEXx1
+A4A = ROCKY = /
+A4B = ICY = GRANDx1
+A5A = ICY = TRITx1
+
+
 * BLU THEIA 
 * BLU THEIA 
 * BLU THEIA 
