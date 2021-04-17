@@ -46,15 +46,8 @@ ORIGIN POINT SYSTEM - BLU THEIA TC-C B1
 *) BLU THEIA DF-X B2-0 (HMTx1)
 *) BLU THEIA YO-A D0 (WTx1)
 *) BLU THEIA YO-A D13 (HMTx1, WTx1)
-*) 
-*) 
-*) 
-*) 
-*) 
-*) 
-*) 
-*) 
-*) 
+
+
 
 **********************************
 *** FIRST CUBE TOUCHED SYSTEMS ***
@@ -271,7 +264,6 @@ A4A = ROCKY = /
 A4B = ICY = GRANDx1
 A5A = ICY = TRITx1
 
-
 * BLU THEIA EQ-X C1-0
 3A = ICY = TRITIUMx2
 
@@ -332,15 +324,6 @@ AB9 = VOx1, LTDx1
 5B = ICY = GRANDx2, ALEXx1, LTDx2, BROMx3
 6 = ICY = ***BROM OVERLAPx2***, LTDx4, GRANDx2, TRITx1
 
-
-
-* BLU THEIA 
-* BLU THEIA 
-* BLU THEIA 
-* BLU THEIA 
-* BLU THEIA 
-* BLU THEIA 
-* BLU THEIA 
 
 
 *******************************************
