@@ -12,7 +12,9 @@ Started 20210417
 PROFITS FROM EXPLORATION BEFORE JUMPING INTO SECOND CUBE: 3,495,901,602
 PROFITS FROM EXPLORATION AT END OF SECOND CUBE: 3,###,###,###
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 OUTER ORION SPUR CUBE#2 POI
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 *) BLU THEIA 
 *) BLU THEIA 
@@ -27,13 +29,15 @@ OUTER ORION SPUR CUBE#2 POI
 *) BLU THEIA 
 *) BLU THEIA 
 *) BLU THEIA 
+
+
 
 
 
 **********************************
 *** SECOND CUBE TOUCHED SYSTEMS **
 **********************************
-***  5                         ***
+***  1                         ***
 ***                            ***
 ***                            ***
 ***                            ***
@@ -42,16 +46,24 @@ OUTER ORION SPUR CUBE#2 POI
 ***                            ***
 **********************************
 Listed:
+BLU THEIA EQ-X C1-3 (CMDR HARIKU)
 
 
 
 
 
 
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 OUTER ORION SPUR CUBE#2 RINGS 
-
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* BLU THEIA EQ-X C1-3
+1A = ROCKY = BENITx2, SERENx1
+1B = ROCKY = /
+3 = MR = PLATx1, SERENx1, MONAZx1
+3AA = ICY = /
+4A = MR = SERENx2, RHODx2, PLATx3, PAINx3
+4B = ICY = VOx2, ALEXx2, BROMx1
+6 = ICY = ***LTD OVERLAPx2***, VO/LTD overlap, GRANDx1, LTDx2, BROM/TRIT overlap, TRITx1, ALEXx1
 
 
 
@@ -104,7 +116,9 @@ Started 20210409
 PROFITS FROM EXPLORATION BEFORE JUMPING INTO FIRST CUBE: 3,392,379,286
 PROFITS FROM EXPLORATION AT END OF FIRST CUBE: 3,495,901,602
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 OUTER ORION SPUR CUBE#1 POI
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ORIGIN POINT SYSTEM - BLU THEIA TC-C B1
 
 *) BLU THEIA YY-A C0 (HMTx2)
@@ -160,8 +174,9 @@ BLU THEIA GL-V B3-0 (CMDR HARIKU)
 BLU THEIA GF-X B2-1 (CMDR HARIKU)
 
 
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 OUTER ORION SPUR CUBE#1 RINGS 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 * BLU THEIA YY-A C0
 1A = METALLIC = PAINX3, SERENx2, MONAZx5, PLATx6, RHODx2  PAIN/SEREN overlap, 
 1B = MR = PLATx5, PAINx2, SERENx3, RHODx5, MONAZx2, SEREN/RHOD overlap, MONAZ/RHOD overlap
