@@ -101,8 +101,12 @@ A5 = ICY = /
 4 = ICY = TRITx1, VOx2
 5 = ICY = GRANDx3, LTDx2, BROMx3, TRITx2, VO/LTD overlap, VOx1
 
-* BLU THEIA 
-
+* BLU THEIA CV-Y D12
+AB1A = MR = /
+AB1B = ROCKY = BENITx4, SEREN/MUSG overlap, MONAZx2, SERENx2
+AB2A = MR = /
+AB2B = ICY = VOx3
+AB3 = ICY = /
 
 
 * BLU THEIA 
@@ -130,7 +134,7 @@ A5 = ICY = /
 *** Yttrium     ********* Zirconium     ***
 *******************************************
 
-* BLU THEIA 
+* BLU THEIA CV-Y D12
 
 
 
