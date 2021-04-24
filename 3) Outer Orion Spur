@@ -39,7 +39,7 @@ OUTER ORION SPUR CUBE#3 POI
 **********************************
 *** THIRD CUBE TOUCHED SYSTEMS **
 **********************************
-***                            ***
+***   1                        ***
 ***                            ***
 ***                            ***
 ***                            ***
@@ -48,11 +48,8 @@ OUTER ORION SPUR CUBE#3 POI
 ***                            ***
 **********************************
 Listed:
-
-
-
-BLU THEIA XU-M B8-0 (CMDR FATNO)
-
+BLU THEIA CJ-Z B1-0 (CMDR LEIF_ERIKSON)
+BLU THEIA 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -63,6 +60,10 @@ A1 = ICY = LTDx1, GRANDx1
 
 * BLU THEIA FP-X B2-0
 8 = ICY = LTDx1, VOx1, BROMx1
+
+* BLU THEIA CJ-Z B1-0
+1A = MR = /
+1B = ICY = BROMx2
 
 * BLU THEIA
 * BLU THEIA
