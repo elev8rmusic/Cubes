@@ -28,7 +28,6 @@ OUTER ORION SPUR CUBE#4 POI
 *) BLU THEIA 
 *) BLU THEIA 
 *) BLU THEIA 
-*) BLU THEIA 
 
 example...
 *) BLU THEIA FV-X C1-0 (HMTx1, WTx1)
@@ -58,6 +57,12 @@ BLU THEIA CJ-Z B1-0 (CMDR LEIF_ERIKSON)
 OUTER ORION SPUR CUBE#4 RINGS 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 * BLU THEIA AU-O B7-0
+1 = ICY = /
+3A = ROCKY = SERENx2, MUSGx2, ALEXx1, MONAZx1
+3B = ICY = GRANDx2, BROMx1, VOx1
+4 = ICY = TRITx3, ALEXx1, GRANDx3, VOx2
+5A = ROCKY = SERENx1, MUSGx1, MONAZx1
+5B = ICY = LTDx1
 
 * BLU THEIA NH-U C3-2
 2 = MR = /
