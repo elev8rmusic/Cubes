@@ -17,7 +17,7 @@ PROFITS FROM EXPLORATION AT END OF FOURTH CUBE: 3,###,###,###
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 OUTER ORION SPUR CUBE#4 POI
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-*) BLU THEIA 
+*) BLU THEIA HG-W C2-1 (WTx1)
 *) BLU THEIA 
 *) BLU THEIA 
 *) BLU THEIA 
@@ -70,21 +70,21 @@ OUTER ORION SPUR CUBE#4 RINGS
 3B = ROCKY = BENITx1, MONAZx1
 5 = ICY = TRITx1
 
+* BLU THEIA HG-W C2-2
+3 = ICY = TRITx4, GRANDx1, VOx2, BROMx1
+4 = ICY = GRANDx1, VOx1
+
 
 * BLU THEIA
 * BLU THEIA
 * BLU THEIA
 * BLU THEIA
+* BLU THEIA
+* BLU THEIA
+* BLU THEIA
+* BLU THEIA
+* BLU THEIA
 
-example...
-* BLU THEIA YD-B C1
-1A = ROCKY = SERENx3, MUSGx2, BENITx1
-1B = MR = ***PLATx2 OVERLAP***, SERENx1, RHODx2, MONAZx2, PAINx1, SEREN/MONAZ overlap
-3A = MR = /
-3B = ICY = /
-4A = ROCKY = BENITx3, MUSGx2, SERENx1, BENIT/ALEX overlap
-4B = ICY = GRANDx1
-7 = ICY = /
 
 
 
@@ -104,13 +104,6 @@ example...
 * BLU THEIA IB-W C2-0
 YTT 2.1%, MOLYB 2.3%, NIO 2.5%, ZIRC 4.2%
 
-
-example...
-* BLU THEIA DK-Z C1
-B1 = ANT 1.4%, TUNG 2.1%, CAD 2.9%, ARS 1.8%
-
-* BLU THEIA BK-Z C1
-B1 = YTT 2.2%, MOLYB 2.4%, CAD 2.8%, ZIRC 4.2
 
 
 
