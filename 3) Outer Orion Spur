@@ -18,7 +18,7 @@ PROFITS FROM EXPLORATION AT END OF FOURTH CUBE: 3,###,###,###
 OUTER ORION SPUR CUBE#4 POI
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 *) BLU THEIA HG-W C2-1 (WTx1)
-*) BLU THEIA 
+*) BLU THEIA RH-S B5-0 (HMTx1)
 *) BLU THEIA 
 *) BLU THEIA 
 *) BLU THEIA 
@@ -75,7 +75,12 @@ OUTER ORION SPUR CUBE#4 RINGS
 4 = ICY = GRANDx1, VOx1
 
 
-* BLU THEIA
+* BLU THEIA RH-S B5-0
+A13 = ICY = /
+A14 = ICY = BROMx1
+
+
+
 * BLU THEIA
 * BLU THEIA
 * BLU THEIA
