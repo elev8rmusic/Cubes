@@ -47,7 +47,7 @@ OUTER ORION SPUR CUBE#4 POI
 **********************************
 *** FOURTH CUBE TOUCHED SYSTEMS **
 **********************************
-***                            ***
+***   1                        ***
 ***                            ***
 ***                            ***
 ***                            ***
@@ -56,6 +56,8 @@ OUTER ORION SPUR CUBE#4 POI
 ***                            ***
 **********************************
 Listed:
+BLU THEIA GA-O B7-0 (CMDR HARIKU)
+
 
 example...
 BLU THEIA CJ-Z B1-0 (CMDR LEIF_ERIKSON)
@@ -107,7 +109,17 @@ B14 = ICY =
 6 = ICY = TRITx3, GRANDx2, VOx2
 
 
-* BLU THEIA
+* BLU THEIA GA-O B7-0
+1A = ROCKY = MONAZx3, BENITx1
+1B = ICY = TRIT/ALEX overlap, BROMx4, ALEXx1, GRANDx1
+2 = ICY = LTDx1, GRANDx4, BROMx3, VOx3, VO/BROM overlap, TRITx1
+3A = ICY = VOx1, ALEXx1
+3B = ICY = /
+4A = ROCKY = 
+4B = ICY = 
+5 = ICY = 
+
+
 * BLU THEIA
 * BLU THEIA
 * BLU THEIA
