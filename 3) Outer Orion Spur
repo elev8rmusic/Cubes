@@ -115,9 +115,9 @@ B14 = ICY =
 2 = ICY = LTDx1, GRANDx4, BROMx3, VOx3, VO/BROM overlap, TRITx1
 3A = ICY = VOx1, ALEXx1
 3B = ICY = /
-4A = ROCKY = 
-4B = ICY = 
-5 = ICY = 
+4A = ROCKY = MONAZx1, MUSGx2, BENITx3, SERENx1
+4B = ICY = BROMx1
+5 = ICY = VOx1
 
 
 * BLU THEIA
