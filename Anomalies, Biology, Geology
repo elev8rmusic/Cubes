@@ -70,12 +70,15 @@ Anomalies
 	* Luteolum
 	* Luteolum Storm
 	* Roseum
+	* Roseum Storm
 	* Rubicundum
 	* Rubicundum Storm
 	* Croceum
 	* Proto-Lagrange
-
 * E-Type Anomalies
+	* E01
+	* E02
+	* E03
 	* E04
 * K-type Anomalies
 	* K01
@@ -98,8 +101,10 @@ Anomalies
 	* K11
 	* K13
 * P-type Anomalies
+	* P02
 	* P03
 	* P04
+	* P10
 	* P11
 	* P13
 	* P15
@@ -107,6 +112,7 @@ Anomalies
 	* Q02
 	* Q03
 	* Q04
+	* Q05
 	* Q06
 	* Q08
 	* Q09
