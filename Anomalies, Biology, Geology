@@ -74,6 +74,7 @@ Anomalies
 	* Rubicundum
 	* Rubicundum Storm
 	* Croceum
+	* Croceum Storm
 	* Proto-Lagrange
 * E-Type Anomalies
 	* E01
@@ -94,6 +95,7 @@ Anomalies
 	* K12
 * L-type Anomalies
 	* L01
+	* L03
 	* L04
 	* L05
 	* L06
@@ -102,12 +104,17 @@ Anomalies
 	* K11
 	* K13
 * P-type Anomalies
+	* P01
 	* P02
 	* P03
 	* P04
+	* P08
+	* P09
 	* P10
 	* P11
+	* P12
 	* P13
+	* P14
 	* P15
 * Q-type Anomalies
 	* Q02
@@ -115,6 +122,7 @@ Anomalies
 	* Q04
 	* Q05
 	* Q06
+	* Q07
 	* Q08
 	* Q09
 * T-type Anomalies
