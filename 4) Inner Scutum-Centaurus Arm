@@ -52,7 +52,15 @@ BLU THEIA XY-Y B1-0 (CMDR HARIKU)
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER SCUTUM-CENTAURUS ARM CUBE#1 RINGS 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-* HYPAA FLYOU 
+* HYPAA FLYOU FN-I D10-1671
+5A = ROCKY = MONAZx1, SERENx1, BENITx1
+6A = MR = PLAT/PAIN overlap, PLAT/SEREN overlap, SERENx1, PLATx3, RHODx2
+7A = MR = PLATx1
+8A = ROCKY = 
+8B = ROCKY = 
+10A = ROCKY = 
+10B = MR = 
+
 * HYPAA FLYOU 
 
 
@@ -80,29 +88,22 @@ B5 = ICY = ALEX/BROM overlap, ALEXx1, GRANDx1
 
 
 *******************************************
-*** GRADE 4 & 5 ********* GRADE 3       ***
+***          CUBE#1 EXOBIOLOGY          ***
 *******************************************
-*** Antimony    ********* Cadmium       ***
-*** Polonium    ********* Mercury       ***
-*** Ruthenium   ********* Molybdenum    ***
-*** Selenium    ********* Niobium       ***
-*** Technetium  ********* Tin           ***
-*** Tellurium   ********* Tungsten      ***
-*** Yttrium     ********* Zirconium     ***
 *******************************************
-METAL RICH ONLY FOR SURFACE MAT GATHERING
-
-* 
-* 
-
-
-
-* BLU THEIA VI-B C2
-C1 = POLO 1.0% CADM 2.8% ZIRC 4.2%
-
-* BLU THEIA BJ-A B1-0
-A1 = TECH 1.3% TUNG 1.9% MOLYB 2.3%
-
+* HYPAA FLYOU FN-I D10-1671 7B = 6
+  TUSSOCK CATENA (YELLOW)
+  ALEOID LAMINIAE (TEAL)
+  FRUTEXA FLAMMASIS (GREEN)
+  BACTERIA ALCYONEUM (LIME)
+  FUNGOIDA SETISIS (PEACH)
+  CONCHA ??? (couldn't find any DSS heat map overlay on concha view)
+  
+* HYPAA FLYOU FN-I D10-1671 7C = 4 
+  TUSSOCK PROPAGITO (YELLOW)
+  TUBUS CAMPAGIBUS (CHECK STREAM MARKER
+  STRATUM LIMAXUS (EMERALD)
+  
 
 
 
