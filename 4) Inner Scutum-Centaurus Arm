@@ -6,6 +6,125 @@ FIRST CUBE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Started 20210715
+6905 SDF before jumping into first system of first cube
+#### SDF at end of 1st cube (#### total systems in cube)
+PROFITS FROM EXPLORATION BEFORE JUMPING INTO FIRST CUBE: 4,297,407,021
+PROFITS FROM EXOBIOLOGY BEFORE JUMPING INTO FIRST CUBE: 
+PROFITS FROM EXPLORATION AT END OF FIRST CUBE: #,###,###,###
+PROFITS FROM EXOBIOLOGY AT END OF FIRST CUBE: #,###,###,###
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+INNER SCUTUM-CENTAURUS ARM CUBE#1 POI
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ORIGIN POINT SYSTEM - HYPAA FLYOU FN-I D10-1671
+
+*) HYPAA FLYOU 
+*) HYPAA FLYOU 
+*) HYPAA FLYOU 
+
+
+*) BLU THEIA YY-A C0 (HMTx2)
+*) BLU THEIA YH-C B0 (HMTx1, Wx1)
+
+
+
+**********************************
+*** FIRST CUBE TOUCHED SYSTEMS ***
+**********************************
+***                            ***
+***                            ***
+***                            ***
+***                            ***
+***                            ***
+***                            ***
+***                            ***
+**********************************
+Listed:
+
+
+
+
+BLU THEIA TS-A B1-0 (CMDR HARIKU)
+BLU THEIA XY-Y B1-0 (CMDR HARIKU)
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+INNER SCUTUM-CENTAURUS ARM CUBE#1 RINGS 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* HYPAA FLYOU 
+* HYPAA FLYOU 
+
+
+* BLU THEIA YY-A C0
+1A = METALLIC = PAINX3, SERENx2, MONAZx5, PLATx6, RHODx2  PAIN/SEREN overlap, 
+1B = MR = PLATx5, PAINx2, SERENx3, RHODx5, MONAZx2, SEREN/RHOD overlap, MONAZ/RHOD overlap
+6 = ICY = ALEXx1, GRANDx1
+7 = ICY = VOx1, BROMx1
+
+* BLU THEIA XD-B C1
+A2A = ROCKY = MUSGx2, ALEXx1
+A2B = ICY = TRITx3
+A3 = ICY = /
+A4 = ICY = ALEXx1, GRANDx1
+A5A = ROCKY = BENITx1
+A5B = ICY = LTDx2
+A6 = ICY = /
+B3A = MR = PAINx5, RHODx2, SERENx2
+B3B = ICY = LTDx1
+B4 = ICY = BROMx2, GRANDx1
+B5 = ICY = ALEX/BROM overlap, ALEXx1, GRANDx1
+
+
+
+
+
+*******************************************
+*** GRADE 4 & 5 ********* GRADE 3       ***
+*******************************************
+*** Antimony    ********* Cadmium       ***
+*** Polonium    ********* Mercury       ***
+*** Ruthenium   ********* Molybdenum    ***
+*** Selenium    ********* Niobium       ***
+*** Technetium  ********* Tin           ***
+*** Tellurium   ********* Tungsten      ***
+*** Yttrium     ********* Zirconium     ***
+*******************************************
+METAL RICH ONLY FOR SURFACE MAT GATHERING
+
+* 
+* 
+
+
+
+* BLU THEIA VI-B C2
+C1 = POLO 1.0% CADM 2.8% ZIRC 4.2%
+
+* BLU THEIA BJ-A B1-0
+A1 = TECH 1.3% TUNG 1.9% MOLYB 2.3%
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCE
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FOURTH CUBE
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Started 20210428
 completed 20210505
 6079 SDF before jumping into first system of fourth cube
@@ -238,392 +357,3 @@ YTT 2.1%, MOLYB 2.3%, NIO 2.5%, ZIRC 4.2%
 
 * BLU THEIA FQ-Y D11
 ANT 1.2%, TUNG 1.8%, NIO 2.2%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-FIRST CUBE
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Started 202107--
-5348 SDF before jumping into first system of first cube
-5629 SDF at end of 1st cube (286 total systems in cube)
-PROFITS FROM EXPLORATION BEFORE JUMPING INTO FIRST CUBE: 3,392,379,286
-PROFITS FROM EXPLORATION AT END OF FIRST CUBE: 3,495,901,602
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-OUTER ORION SPUR CUBE#1 POI
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-ORIGIN POINT SYSTEM - BLU THEIA TC-C B1
-
-*) BLU THEIA YY-A C0 (HMTx2)
-*) BLU THEIA YH-C B0 (HMTx1, Wx1)
-*) BLU THEIA AJ-A B1-1 (HMTx1)
-*) BLU THEIA AK-Z C2 (WTx1, Wx2)
-*) BLU THEIA CU-Y B1-1 (HMTx1)
-*) BLU THEIA AK-A D18 (HMTx2, WTx2)
-*) BLU THEIA AK-A D17 (HMTx1, Wx1)
-*) BLU THEIA HL-X C1-0 (HMTx1)
-*) BLU THEIA KG-V B3-0 (HMTx1)
-*) BLU THEIA AV-V B3-0 (HMTx2)
-*) BLU THEIA QC-B B1-0 (Wx2)
-*) BLU THEIA WT-A D8 (HMTx1)
-*) BLU THEIA CV-X C1-1 (HMTx1)
-*) BLU THEIA FG-U B4-0 (Wx2)
-*) BLU THEIA CV-Y D6 (HMTx3)
-*) BLU THEIA TC-B B1-0 (WTx1)
-*) BLU THEIA VI-B C3 (HMTx2, WTx1)
-*) BLU THEIA VD-B C3 (Wx1, Ax1)
-*) BLU THEIA VD-B C0 (HMTx4)
-*) BLU THEIA VD-B C1 (WTx1)
-*) BLU THEIA WD-B C3 (WTx1, HMTx1)
-*) BLU THEIA TH-C B1 (HMTx2, Wx1)
-*) BLU THEIA XO-A D11 (Wx2)
-*) BLU THEIA CV-Y D1 (HMTx2, Ax1)
-*) BLU THEIA YO-A D12 (HMTx2, Wx2)
-*) BLU THEIA YO-A D11 (Wx1) ringed waterworld honkin thiccboi
-*) BLU THEIA ZT-Y B1-1 (WTx1)
-*) BLU THEIA XO-A D3 (HMTx2)
-*) BLU THEIA DF-X B2-0 (HMTx1)
-*) BLU THEIA YO-A D0 (WTx1)
-*) BLU THEIA YO-A D13 (HMTx1, WTx1)
-
-
-
-**********************************
-*** FIRST CUBE TOUCHED SYSTEMS ***
-**********************************
-***  5                         ***
-***                            ***
-***                            ***
-***                            ***
-***                            ***
-***                            ***
-***                            ***
-**********************************
-Listed:
-BLU THEIA TS-A B1-0 (CMDR HARIKU)
-BLU THEIA XY-Y B1-0 (CMDR HARIKU)
-BLU THEIA IG-V B3-1 (CMDR HARIKU)
-BLU THEIA GL-V B3-0 (CMDR HARIKU)
-BLU THEIA GF-X B2-1 (CMDR HARIKU)
-
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-OUTER ORION SPUR CUBE#1 RINGS 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-* BLU THEIA YY-A C0
-1A = METALLIC = PAINX3, SERENx2, MONAZx5, PLATx6, RHODx2  PAIN/SEREN overlap, 
-1B = MR = PLATx5, PAINx2, SERENx3, RHODx5, MONAZx2, SEREN/RHOD overlap, MONAZ/RHOD overlap
-6 = ICY = ALEXx1, GRANDx1
-7 = ICY = VOx1, BROMx1
-
-* BLU THEIA XD-B C1
-A2A = ROCKY = MUSGx2, ALEXx1
-A2B = ICY = TRITx3
-A3 = ICY = /
-A4 = ICY = ALEXx1, GRANDx1
-A5A = ROCKY = BENITx1
-A5B = ICY = LTDx2
-A6 = ICY = /
-B3A = MR = PAINx5, RHODx2, SERENx2
-B3B = ICY = LTDx1
-B4 = ICY = BROMx2, GRANDx1
-B5 = ICY = ALEX/BROM overlap, ALEXx1, GRANDx1
-
-* BLU THEIA ZI-A B1-1
-ABCD2 = VO/LTD overlap, LTDx1
-
-* BLU THEIA XI-A B1-0
-7A = MR = SERENx3
-7B = ICY = ALEXx4, LTDx2, GRANDx3, TRITx2, BROM/VO overlap
-8A = ROCKY = BENITx2, MONAZx2, MUSGx1
-8B = ICY = VOx1, ALEXx2, BROMx5, TRITx1, TRIT/GRAND overlap, LTDx2
-9 = ICY = GRAND/LTD overlap, BROMx2, TRITx1, VO/GRAND overlap, VOx1
-
-* BLU THEIA LB-V B3-0
-7A = ROCKY = MUSGx2
-7B = ICY = GRANDx1, ALEXx1, ***BROMx2 OVERLAP***
-
-* BLU THEIA LM-T B4-0
-A3 = ICY = LTDx2, GRANDx1, TRITx2
-
-* BLU THEIA AV-V B3-0 
-9 = ICY = ***LTDx2 OVERLAP***, BROM/LTD overlap, ALEX/VO overlap, VO/GRAND overlap, TRIT/BROM overlap, GRANDx1, LTDx1, VOx2, ALEXx1
-10 = ICY = /
-
-* BLU THEIA BC-C B3-0
- 2 = ICY = VOx3, BROMx1, LTDx1, TRITx2
- 3A = MR = RHODx1, PAINx1
- 3B = ICY = LTDx2, BROMx1, VOx1, TRITx3, GRAND/TRIT overlap
-
-* BLU THEIA QC-B B1-0
-7A = ROCKY = MUSGx1, BENIx1, ALEXx1
-7B = ICY = /
-8 = ICY = /
-
-* BLU THEIA YO-A D10
-4 = ICY = no hotspots but 650 trillion megatons. ring is HUGE.
-
-* BLU THEIA XO-X B2-1
-4A = MR = PLATx1, PAINx1, MONAZx2
-4B = ICY = LTDx2, TRITx2, VOx1, ALEXx1 
-5 = ICY = VOx1, BROMx1, GRANDx1
-6 = ICY = /
-
-* BLU THEIA WT-Z C2
-A1 = MR = PAINx1, SERENx1
-A2A = MR = RHODx5, MONAZx3, PLATx2, SERENx2
-A2B = ICY = ALEXx1
-A3A = ROCKY = /
-A3B = ICY = LTDx2, TRITx2, VOx1, ALEXx1
-A4A = ICY = BROMx1
-
-* BLU THEIA AA-W B3-0
-2A = ROCKY = BENITx1
-2B = ICY = GRANDx1
-3 = ICY = BROMx3, TRITx2, ALEXx3, VOx2, 
-4A = ROCKY = /
-4B = ICY = LTDx2, VOx1, ALEXx1
-5A = ROCKY = SERENx4, ALEXx2, BENITx3, MONAZx3, MUSGx2
-5B = ICY = VOx1, LTDx1, TRITx1
-
-* BLU THEIA CV-V B3-0
-3A = MUSGx4, SERENx3, ALEXx1
-3B = TRITx1
-4 = ICY = VOx2, BROMx2, GRANDx1, TRITx2
-5 = ICY = BROMx4, GRANDx2, GRAND/LTD overlap, LTD/BROM overlap, LTDx3, ALEXx2, TRITx2
-6 = ICY = TRITx1
-7 = ICY = VOx1, ALEXx1, TRITx1, LTDx1, BROMx1
-8 = ICY = ALEXx1, TRITx3
-
-* BLU THEIA CV-X C1-2
-2 = ROCKY = /
-3A = ICY = LTDx2, BROMx1, GRANDx2, BROM/VO overlap, BROM/TRIT overlap, TRITx2, ALEXx2
-3B = ICY = DOESNT EXIST???
-3E = ICY = GRANDx1, ALEXx1, LTD/VO overlap
-4 = ICY = GRANDx1
-4A = ICY = GRANDx1, TRITx1
-
-* BLU THEIA TC-B B1-0
-11 = ICY = ***VOx2 OVERLAP***, VOx1, LTDx1, LTD/TRIT overlap, ALEXx1, BROMx2
-12 = ICY = VOx1, ALEXx1, GRANDx2, BROMx1, TRITx2
-
-* BLU THEIA SS-A B1-0 
-1 = ICY = LTDx1, BROMx1, VOx2
-2A = ROCKY = ALEXx1, MONAZx1, BENITx1
-2B = ICY = ALEXx2, LTDx1, BROMx1, VOx1, GRANDx1
-4 = ICY = GRANDx2, TRITx1, ALEXx1, BROMx1
-5 = ICY = LTDx1, BROMx1
-
-* BLU THEIA VD-B C0 
-11 = ICY = /
-12 = ICY = LTDx1
-
-* BLU THEIA RM-C B0
-4A = MR = RHODx3, SERENx2, PLATx1
-4B = ICY = VOx1
-5 = ICY = GRANDx1, LTDx1, VOx2
-6 = ICY = BROMx1, ALEXx1, LTDx1, TRIT/VO overlap
-
-* BLU THEIA WD-B C1-1
-1A = MR = PAINx2, MONAZx1
-1B = ROCKY = BENITx1
-2 = ROCKY = ALEXx2, MONAZx1, SERENx1, MUSGx1, MUSG/BENIT overlap, SEREN/BENET overlap
-4 = ROCKY = /
-5 = ICY = GRANDx2, VOx1, TRIT/ALEX overlap
-
-* BLU THEIA WD-B C2
-1A = MR = PAINx1, PLATx1, MONAZx1
-1B = MR = /
-5 = ICY = ALEXx1
-
-* BLU THEIA ZJ-Z C3
-ABC2 = LTDx1
-
-* BLU THEIA ZJ-Z C2
-1A = MR = MONAZx1, PAINx1
-1B = MR = /
-3 = ICY = LTDx2, TRITx1, ***LTDx2 OVERLAP***, GRANDx1, ALEXx1, VOx1, BROMx1
-4 = ICY = /
-5 = ICY = GRANDx1
-6 = ICY = /
-
-* BLU THEIA ZJ-Z C1
-1 = ROCKY = MUSGx1, MONAZx1, SERENx1, BENITx1, ALEXx2
-2 = ROCKY = MUSGx3, ALEXx1, SERENx2, MONAZx3, BENITx1
-4 = ICY = ALEXx1, GRANDx1
-
-* BLU THEIA BV-X C1-1
-ABC1A = MR = PLATx1, MONAZx4, SERENx1
-ABC1B = ICY = /
-ABC2A = ROCKY = SERENx1
-ABC2B = ICY = VOx1
-
-* BLU THEIA FL-V B3-0
-AB5A = ROCKY = MUSGx2, MONAZx1, SERENx1, ALEXx2
-AB5B = ICY = VOx1
-AB6 = ICY = /
-
-* BLU THEIA HW-T B4-1
-ABC3 = ROCKY = ALEXx2, MUSGx1, BENITx1, SERENx1, ALEX/MUSG overlap
-ABC4A = ROCKY = MUSGx1, SERENx1, BENITx1
-ABC4B = ICY = /
-ABC5A = ROCKY = MUSGx7, ALEXx2, MONAZx2, BENITx3
-ABC5B = ICY = ALEXx2, LTDx2, BROMx2, VOx5, BROMx2, GRANDx2
-ABC6A = MR = SERENx1, PLATx1
-ABC6B = ICY = ALEXx1, VOx2, GRANDx2, LTD/BROM overlap, TRITx2, LTDx1, BROMx1
-
-* BLU THEIA FL-V B3-1
-A9A = MR = PLATx1
-A9B = ICY = LTDx1, VOx3, ALEXx1, TRITx1
-A10 = ICY = TRITx1, VOx1, BROMx1
-
-* BLU THEIA CV-Y D10
-1A = MR = PLATx2, SERENx1, RHODx2, MONAZx2
-1BA = ROCKY = SERENx2
-1BB = ROCKY = ALEXx1
-
-* BLU THEIA JG-V B3-1
-1A = ROCKY = SERENx1, MUSGx1
-1B = ICE = TRITx2, ALEXx3, LTDx1, VOx1
-
-* BLU THEIA XS-A B1-0
-A1 = ICY = VOx1, ALEXx1
-
-* BLU THEIA YO-A D12
-B12 = ICY = /
-
-* BLU THEIA YO-A D11
-6A = ROCKY = SERENx1
-
-* BLU THEIA XO-A D3
-A3A = MR = /
-A3B = ROCKY = ALEXx1
-A4A = ROCKY = /
-A4B = ICY = GRANDx1
-A5A = ICY = TRITx1
-
-* BLU THEIA EQ-X C1-0
-3A = ICY = TRITIUMx2
-
-* BLU THEIA DF-X B2-0
-B5A = ICY = TRITx1
-B6A = ICY = ALEXx1, LTDx1
-
-* BLU THEIA AZ-Y B1-0
-12A = ROCKY = SERENx1, MONAZx2
-12B = ICY = /
-
-* BLU THEIA ZY-Y B1-0
-1A = ICY = LTDx1
-3A = ROCKY = BENITx2, MUSGx4, ALEXx3, 
-3B = ICY = BROMx1, GRANDx1, TRITx1
-4A = MR = /
-4B = ICY = /
-5A = MR = RHODx1, SERENx1
-5B = ICY = /
-
-* BLU THEIA WD-Z B1-1
-3 = ICY = VOx1
-4A = ROCKY = ALEXx1, MONAZx1, MUSGx1
-4B = ICY = TRITx1, LTDx1, ALEXx1, GRANDx1, VOID/GRAND/TRITIUM overlap
-6A = ROCKY = MONAZx3, BENITx3, ALEXx1
-6B = ICY = /
-7A = METALLIC = PAINx2, SERENx1, PLATx1
-7B = ICY = TRITx1, GRANDx1, LTDx1, BROMx1
-
-* BLU THEIA YO-Z C3
-AB2A = ROCKY = SERENx1, MONAZx1
-AB2B = ICY = TRITx1, BROMx1, ALEXx1
-AB3A = ROCKY = BENITx1, MONAZx1, MUSGx2, ALEXx4, SERENx3
-AB3B = ICY = /
-AB4A = SERENx2, PLATx1
-AB4B = TRITx1
-AB5A = ROCKY = BENITx2, SERENx2, ALEXx1, MONAZx1, MUSGx2
-B5B = ICY = VOx4, GRANDx1, LTDx4, ALEXx1, BROMx2
-AB6A = PAINx1
-AB6B = GRANDx1
-AB7 = LTDx1
-AB9 = VOx1, LTDx1
-
-* BLU THEIA YO-Z C1
-2A = METALLIC = /
-2B = ROCKY = /
-3A = MR = /
-3B = ICY = ***2 DOUBLE OVERLAPPING TRITIUM HOTSPOTS (2-IN-1 TIMES TWO)***, BROMx3, VOx2, GRANDx2, LTDx2
-4 = /
-5 = /
-
-* BLU THEIA YO-Z C2
-2A = METALLIC = PLATx4, MONAZx3, PAINx1, SERENx3, RHODx2, RHOD/PLAT overlap, PAIN/PLAT overlap
-2B = ROCKY = MUSGx1, MONASx1, SERENx1, ALEXx1
-3A = MR = MONAZx1, SERENx1, PAINx2, RHODx1
-3B = ICY = /
-5A = ROCKY = /
-5B = ICY = GRANDx2, ALEXx1, LTDx2, BROMx3
-6 = ICY = ***BROM OVERLAPx2***, LTDx4, GRANDx2, TRITx1
-
-
-
-*******************************************
-*** GRADE 4 & 5 ********* GRADE 3       ***
-*******************************************
-*** Antimony    ********* Cadmium       ***
-*** Polonium    ********* Mercury       ***
-*** Ruthenium   ********* Molybdenum    ***
-*** Selenium    ********* Niobium       ***
-*** Technetium  ********* Tin           ***
-*** Tellurium   ********* Tungsten      ***
-*** Yttrium     ********* Zirconium     ***
-*******************************************
-
-* BLU THEIA VI-B C2
-C1 = POLO 1.0% CADM 2.8% ZIRC 4.2%
-
-* BLU THEIA BJ-A B1-0
-A1 = TECH 1.3% TUNG 1.9% MOLYB 2.3%
-
-
