@@ -165,9 +165,11 @@ A6A = ICY = LTDx2, VOx3, ALEXx2, BROMx2
 2A = MR = MONAZx4, PLATx3, SERENx2, PAINx1, RHODx1
 2B = ICY = ALEXx1
 
+* HYPAA FLYOU EN-I D10-1340
+2A = MR = MONAZx1, SEREN x1, RHODx1
+5A = ICY = 
 
-* HYPAA FLYOU 
-* HYPAA FLYOU 
+
 * HYPAA FLYOU 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
@@ -354,15 +356,29 @@ A6A = ICY = LTDx2, VOx3, ALEXx2, BROMx2
     STRATUM **************************WOULDN'T SCAN FIRST TIME AROUND
     TUSSOCK CATENA (SAGE)
     
-    
-      
 * HYPAA FLYOU DA-J A86-0
   2 = 1
     BACTERIUM ACIES (WHITE)
   7 = 1
     BACTERIUM ACIES (CYAN)
 
-* HYPAA FLYOU 
+* HYPAA FLYOU EN-I D10-1340
+  4A = 3
+    
+    
+    
+    
+  4B = 2
+    
+    
+  
+  4C = 1
+    
+  
+  4D = 2
+  
+    
+
 * HYPAA FLYOU 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
