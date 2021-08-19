@@ -173,9 +173,9 @@ A6A = ICY = LTDx2, VOx3, ALEXx2, BROMx2
 * HYPAA FLYOU NG-P C21-78
 2A = ROCKY = /
 2B = ROCKY = MUSGx1
-5A = MR = 
-5B = ICY = 
-6A = MR = 
+5A = MR = MONAZx1
+5B = ICY = TRITx2, ALEXx2, LTDx1
+6A = MR = MONAZx1
 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
@@ -399,8 +399,14 @@ A6A = ICY = LTDx2, VOx3, ALEXx2, BROMx2
   4E = 1
     BACTERIUM CERBRUS (EMERALD)
   6E = 2
+    
+    
   6G = 2
+    
+    
   6H = 2
+    
+    
 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
