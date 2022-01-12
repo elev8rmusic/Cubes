@@ -15,7 +15,7 @@ PROFITS FROM EXOBIOLOGY BEFORE JUMPING INTO FIRST CUBE: 58,002,700
 6935 SDF before jumping back to the bubble to unlock odyssey engineers
 PROFITS FROM EXPLORATION before jumping back to the bubble: 4,351,813,186
 PROFITS FROM EXOBIOLOGY before jumping back to the bubble: 92,931,100
-#### SDF before jumping into the next new system within first cube after returning from the bubble
+6935 SDF before jumping into the next new system within first cube after returning from the bubble
 PROFITS FROM EXPLORATION before jumping back into the origin point system of the cube: 4,571,827,826
 PROFITS FROM EXOBIOLOGY before jumping back into the origin point system of the cube: 120,318,100
 ------------------------------trip back to the bubble for colonia engineers----------------------------
@@ -192,7 +192,17 @@ A6A = ICY = LTDx2, VOx3, ALEXx2, BROMx2
 5B = ROCKY = /
 6A = ROCKY = /
 
-* HYPAA FLYOU 
+* HYPAA FLYOU NG-P C21-10
+1 = ICY = LTDx2, BROMx3, ALEXx1, TRITx1
+2A = ROCKY = /
+2B = ICY = VOx,2, GRANDx1
+4A = MR = 
+4B = ICY = 
+5 = ICY = 
+6 = ICY = 
+
+
+
 * HYPAA FLYOU 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
@@ -428,7 +438,12 @@ A6A = ICY = LTDx2, VOx3, ALEXx2, BROMx2
   B6 = 1
     BACTERIUM **************************COULDN'T FIND FIRST TIME AROUND
 
-* HYPAA FLYOU 
+* HYPAA FLYOU NG-P C21-10
+  C3 = 2
+    FONTICULA CAMPESTRIS (EMERALD)
+    BACTERIUM VESICULA (MULBERRY)
+
+
 * HYPAA FLYOU 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
