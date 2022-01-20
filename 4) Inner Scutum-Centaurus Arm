@@ -287,8 +287,24 @@ C5 = MR = /
 9B = ICY = ALEXx1, VOx1
 12 = ICY = LTDx1
 
+* HYPAA FLYOU EN-I D10-3112
+2 = ROCKY = MONAZx1, BENITx1
+4 = ROCKY = /
+5 = ICY = VO/ALEX overlap, GRANDx1
+5F = ICY = BROMx1
+
+
 * HYPAA FLYOU 
 * HYPAA FLYOU 
+* HYPAA FLYOU 
+
+
+
+
+
+
+
+
 
 
 *******************************************
@@ -628,6 +644,12 @@ C5 = MR = /
   H = 2
     BACTERIUM VESICULA (MULBERRY)
     FONTICULA CAMPESTRIS (AMETHYST)
+
+* HYPAA FLYOU EN-I D10-3112
+  5F = 2
+    BACTERIUM 
+    FONTICULA 
+    
 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
