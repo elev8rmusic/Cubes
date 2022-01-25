@@ -359,7 +359,20 @@ A6 = ROCKY = /
 4B = MR = PAIN/SEREN overlap, PLATx1, MONAZx1, RHODx2, SERENx1
 
 
-* HYPAA FLYOU 
+* HYPAA FLYOU FN-I D10-219
+  2A = MR = MONAZx1, SERENx4
+  2B = MR = MONAZx1
+  3A = ROCKY = 
+  3B = MR = 
+  4A = ROCKY = 
+  4B = ROCKY = 
+  5A = MR = 
+  5B = MR = 
+  6 = MR = 
+  7A = METALLIC = 
+  7B = ROCKY = 
+  8 = ROCKY = 
+
 * HYPAA FLYOU 
 * HYPAA FLYOU 
 
@@ -777,9 +790,19 @@ A6 = ROCKY = /
     BACTERIUM VESICULA (MULBERRY)
     FONTICULA CAMPESTRIS (EMERALD)
 
-* HYPAA FLYOU 
-* HYPAA FLYOU 
+* HYPAA FLYOU FN-I D10-219
+  7B = 5
+  7C = 7
+  8A = 6
+  8B = 5
+  8D = 5
+  8E = 3
 
+
+
+* HYPAA FLYOU 
+* HYPAA FLYOU 
+* HYPAA FLYOU 
 
 
 
