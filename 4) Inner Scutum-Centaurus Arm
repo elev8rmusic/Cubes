@@ -401,7 +401,6 @@ A6 = ROCKY = /
 7 = ICY = GRANDx1
 7C = ICY = /
 
-
 * HYPAA FLYOU GT-C B44-8
 1 = MR = PAIN/MONAZ overlap, MONAZx3, RHODx2, PAINx1, SERENx1
 2A = MR = RHODx2, PLATx1
@@ -412,8 +411,6 @@ A6 = ROCKY = /
 5 = ICY = BROMx1, LTDx2
 6 = ICY = GRANDx1, VOx1, TRITx3
 7 = ICY = ***GRANDx2 OVERLAP***, LTD/TRIT overlap, GRAND/BROM overlap, GRANDx1, LTDx1
-
-
 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
@@ -991,6 +988,7 @@ A6 = ROCKY = /
   A1 = 1
     BACTERIUM AURASUS (GREEN)
   A2 = 2
+    
   A3 = 2
 
 * HYPAA FLYOU 
