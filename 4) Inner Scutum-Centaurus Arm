@@ -443,7 +443,7 @@ A6 = ROCKY = /
 5A = MR = MONAZx1, RHODx1, PLATx1, PAINx1
 5B = MR = RHODx1
 5G = ICY = /
-6A = ICY = 
+6A = ICY = /
 
 
 
@@ -1116,6 +1116,8 @@ A6 = ROCKY = /
     BACTERIUM INFORMEM (LIME)
     FONTICULA LAPIDA (EMERALD)
   6E = 2
+    BACTERIUM 
+    FONTICULA 
   6F = 2
   6G = 2
 
