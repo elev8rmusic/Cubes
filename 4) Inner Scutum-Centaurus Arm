@@ -442,7 +442,7 @@ A6 = ROCKY = /
 4B = MR = PAINx1
 5A = MR = MONAZx1, RHODx1, PLATx1, PAINx1
 5B = MR = RHODx1
-5G = ICY = 
+5G = ICY = /
 6A = ICY = 
 
 
@@ -1113,6 +1113,8 @@ A6 = ROCKY = /
   5F = 1
     FONTICULA UPUPAM (EMERALD)
   5G = 2
+    BACTERIUM INFORMEM (LIME)
+    FONTICULA LAPIDA (EMERALD)
   6E = 2
   6F = 2
   6G = 2
