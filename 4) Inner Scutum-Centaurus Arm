@@ -511,7 +511,6 @@ AB1 = ROCKY = ALEXx1
   5B = ROCKY = /
   6 = ICY = VOx1
 
-
 * HYPAA FLYOU EN-I D10-3509
   3A = ROCKY = MUSGx2 overlap (slight), BENITx1, MUSGx2, ALEXx3, SERENx1
   3B = ROCKY = MONAZx3, SERENx2
@@ -520,7 +519,17 @@ AB1 = ROCKY = ALEXx1
   5 = MR = /
 
 
-* HYPAA FLYOU 
+* HYPAA FLYOU EM-I D10-180
+  AB1 = ROCKY = ALEX/BENIT overlap, MUSG/MONAZ overlap, ***ALEXx2 OVERLAP (with MUSGx1 mixed in)***, BENITx2, MUSGx2, ALEXx3. MONAZx1, SERENx1
+  AB2 = ICY = LTDx1, GRANDx1
+  C5A = ROCKY = 
+  C5B = ICY = 
+  C6A = ROCKY = 
+  C6B = ICY = 
+  C7 = ICY = 
+  C8 = ICY = 
+
+
 * HYPAA FLYOU  
 * HYPAA FLYOU 
 * HYPAA FLYOU 
