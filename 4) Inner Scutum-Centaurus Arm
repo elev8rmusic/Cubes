@@ -537,14 +537,14 @@ AB1 = ROCKY = ALEXx1
   7 = ICY = /
 
 * HYPAA FLYOU QM-N C22-10
-  1 = MR = 
-  2 = MR = 
-  3A = MR = 
-  3B = ICY = 
-  4A = MR = 
-  4B = ICY = 
-  5A = MR = 
-  5B = ICY = 
+  1 = MR = PAINx4, MONAZx2, SERENx1, PLATx1
+  2 = MR = SERENx1, RHODx1
+  3A = MR = ***RHODx2 OVERLAP***, RHODx2, SERENx3, MONAZx1
+  3B = ICY = TRITx4, VOx1, LTDx1
+  4A = MR = SERENx1
+  4B = ICY = VOx1, GRANDx1, ALEXx1
+  5A = MR = RHODx1, PLATx1
+  5B = ICY = GRANDx2, LTDx2, BROMx1, TRITx1
 
 
 * HYPAA FLYOU 
