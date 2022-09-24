@@ -107,13 +107,14 @@ BLU THEIA TS-A B1-0 (CMDR HARIKU)
 BLU THEIA XY-Y B1-0 (CMDR HARIKU)
 
 
-**********************************
-*** FIRST CUBE NONHUMAN SIGNAL ***
-**********************************
+*************************************
+*** FIRST CUBE NONHUMAN SIGNATURE ***
+*************************************
 * HYPAA FLYOU IT-G D11-767
-  4D = NHSSx2 (PROBEx1 / OTHER UNK)
-  6A = NHSSx1 (PROBEx1)  
-  6D = NHSSx1 (PROBEx1)  
+  3F = NHSx2 (SENSORx2)
+  4D = NHSx2 (SENSORx2)
+  6A = NHSx1 (SENSORx1)  
+  6D = NHSx1 (SENSORx1)  
   
   
   
