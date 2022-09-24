@@ -103,11 +103,20 @@ ORIGIN POINT SYSTEM - HYPAA FLYOU FN-I D10-1671
 Listed:
 
 
-
-
 BLU THEIA TS-A B1-0 (CMDR HARIKU)
 BLU THEIA XY-Y B1-0 (CMDR HARIKU)
 
+
+**********************************
+*** FIRST CUBE NONHUMAN SIGNAL ***
+**********************************
+* HYPAA FLYOU IT-G D11-767
+  4D = NHSSx2 (PROBEx1 / OTHER UNK)
+  6A = NHSSx1 (PROBEx1)  
+  6D = NHSSx1 (PROBEx1)  
+  
+  
+  
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER SCUTUM-CENTAURUS ARM CUBE#1 RINGS 
@@ -569,10 +578,10 @@ AB1 = ROCKY = ALEXx1
 
 * HYPAA FLYOU IT-G D11-767
   3 = ROCKY = SEREN/ALEX overlap, BENITx1, SERENx1
-  5 = MR = 
-  6A = ROCKY = 
-  6B = ICY = 
-  7 = ICY = 
+  5 = MR = /
+  6A = ROCKY = MONAZx2, BENITx2
+  6B = ICY = /
+  7 = ICY = TRITx1
   
 
 
@@ -1385,15 +1394,17 @@ AB1 = ROCKY = ALEXx1
   3F = 2
     BACTERIUM AURASUS (EMERALD)
     TUSSOCK PROPAGITO (LIME)
-  4D = 4
+  4D = 4 (NONHUMAN SIGNAL SOURCE x2 = THARGOID SENSOR (didn't visit the second one))
     BACTERIUM AURASUS (EMERALD)
     CONCHA LABIATA (TURQUOISE)
     TUBUS COMPAGIBUS (RED)
     TUSSOCK PROPAGITO (LIME)
   4E = 2
-    
+    BACTERIUM AURASUS (EMERALD)
+    TUSSOCK PROPAGITO (LIME)
   4F = 2
-    
+    BACTERIUM AURASUS (EMERALD) 
+    TUSSOCK PROPAGITO (LIME) 
 
 
 
