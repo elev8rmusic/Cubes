@@ -82,7 +82,7 @@ ORIGIN POINT SYSTEM - HYPAA FLYOU FN-I D10-1671
 *) HYPAA FLYOU EN-I D10-1064 (HMTx1, Wx1)
 *) HYPAA FLYOU EN-I D10-1949 (Wx1)
 *) HYPAA FLYOU EN-I D10-1328 (HMTx1)
----bubble break---
+---colonia break---
 *) HYPAA FLYOU 
 *) HYPAA FLYOU 
 *) HYPAA FLYOU 
@@ -586,7 +586,7 @@ AB1 = ROCKY = ALEXx1
   6B = ICY = /
   7 = ICY = TRITx1
   
----bubble break---
+---colonia break---
 
 * HYPAA FLYOU  
 * HYPAA FLYOU 
@@ -608,7 +608,7 @@ AB1 = ROCKY = ALEXx1
     FRUTEXA FLAMMASIS (GREEN)
     BACTERIUM ALCYONEUM (LIME)
     FUNGOIDA SETISIS (PEACH)
-    CONCHA ??? ***(couldn't find any DSS heat map overlay on concha view)***
+    CONCHA _________________________***(couldn't find any DSS heat map overlay on concha view)***
   7C = 4 
     TUSSOCK PROPAGITO (YELLOW)
     TUBUS CAMPAGIBUS (GREY)
@@ -768,9 +768,9 @@ AB1 = ROCKY = ALEXx1
   C8 = 6
     BACTERIUM ALCYONEUM (SAGE)
     CACTOIDA PEPERATIS (MAUVE)
-    FUNGOID **************************COULDN'T FIND FIRST TIME AROUND
+    FUNGOID _________________________**************************COULDN'T FIND FIRST TIME AROUND
     FRUTEXA METALLICUM (TEAL)
-    STRATUM **************************WOULDN'T SCAN FIRST TIME AROUND (KNOWN BUG)
+    STRATUM _________________________**************************WOULDN'T SCAN FIRST TIME AROUND (KNOWN BUG)
     TUSSOCK CATENA (SAGE)
     
 * HYPAA FLYOU DA-J A86-0
@@ -788,7 +788,7 @@ AB1 = ROCKY = ALEXx1
     TUSSOCK PROPAGITO (YELLOW)
     CONCHA LABIATA (GREY)
   4C = 1
-    TUSSOCK ??? (COULDN'T FIND A SINGLE FUKN TUSSOCK EVEN THOUGH HEAT MAP IS EVERYWHERE. NEED TO LAND TO LET THE TUSSOCK RENDER IN)
+    TUSSOCK _________________________(COULDN'T FIND A SINGLE FUKN TUSSOCK EVEN THOUGH HEAT MAP IS EVERYWHERE. NEED TO LAND TO LET THE TUSSOCK RENDER IN)
   4D = 2
     BACTERIUM AURASUS (LIME)
     TUSSOCK PROPAGITO (YELLOW)
@@ -984,14 +984,14 @@ AB1 = ROCKY = ALEXx1
 * HYPAA FLYOU FN-I D10-88
   3E = 4
     FUNGOIDA SETISIS (PEACH)
-    OSSEUS ******couldn't find the first time around***********
+    OSSEUS _________________________******couldn't find the first time around***********
     BACTERIUM ALCYONEUM (YELLOW)
     CACTOIDA LAPIS (GREEN)
   3F = 4
     FUNGOIDA SETISIS (LIME)
     OSSEUS SPIRALIS (LIME)
     BACTERIUM ALCYONEUM (YELLOW)
-    CACTOIDA ******only a few heat map blips***********
+    CACTOIDA _________________________******only a few heat map blips***********
   3G = 1
     BACTERIUM CERBRUS (YELLOW)
 
@@ -1047,7 +1047,7 @@ AB1 = ROCKY = ALEXx1
 * HYPAA FLYOU OG-P C21-679
   4A = 4
     BACTERIUM ALCYONEUM (GREEN)
-    OSSEUS ***couldn't find a single bio sample even though it's all over the heatmap!!!***
+    OSSEUS _________________________***couldn't find a single bio sample even though it's all over the heatmap!!!***
     SRATUM PALEAS (LIME)
     TUSSOCK CATENA (GREEN)
   8A = 2
@@ -1410,8 +1410,7 @@ AB1 = ROCKY = ALEXx1
     BACTERIUM AURASUS (EMERALD) 
     TUSSOCK PROPAGITO (LIME) 
 
----bubble break---
-
+---colonia break---
 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
