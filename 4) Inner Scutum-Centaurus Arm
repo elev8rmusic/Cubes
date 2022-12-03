@@ -20,6 +20,10 @@ PROFITS FROM EXPLORATION before jumping back into the origin point system of the
 PROFITS FROM EXOBIOLOGY before jumping back into the origin point system of the cube: 120,318,100
 ------------------------------trip back to the bubble for colonia engineers----------------------------
 
+returned to cube from colonia 20221202 (no exploring done over there so not having the pre-break data is nbd)
+PROFITS FROM EXPLORATION before jumping back into the origin point system of the cube: 4,811,410,088
+PROFITS FROM EXOBIOLOGY before jumping back into the origin point system of the cube: 219,523,500
+
 #### SDF at end of 1st cube (#### total systems in cube)
 PROFITS FROM EXPLORATION AT END OF FIRST CUBE: #,###,###,###
 PROFITS FROM EXOBIOLOGY AT END OF FIRST CUBE: #,###,###,###
@@ -78,6 +82,7 @@ ORIGIN POINT SYSTEM - HYPAA FLYOU FN-I D10-1671
 *) HYPAA FLYOU EN-I D10-1064 (HMTx1, Wx1)
 *) HYPAA FLYOU EN-I D10-1949 (Wx1)
 *) HYPAA FLYOU EN-I D10-1328 (HMTx1)
+---bubble break---
 *) HYPAA FLYOU 
 *) HYPAA FLYOU 
 *) HYPAA FLYOU 
@@ -491,7 +496,6 @@ AB1 = ROCKY = ALEXx1
   13 = ICY = GRANDx1
   14 = ICY = TRIT/LTD overlap, VOx2, GRANDx1, BROMx1, LTDx1
   
-  
 * HYPAA FLYOU EN-I D10-862
   1A = ROCKY = /
   1B = MR = MONAZx1, PAINx1, SERENx2
@@ -534,7 +538,6 @@ AB1 = ROCKY = ALEXx1
   4B = ROCKY = /
   5 = MR = /
 
-
 * HYPAA FLYOU EM-I D10-180
   AB1 = ROCKY = ALEX/BENIT overlap, MUSG/MONAZ overlap, ***ALEXx2 OVERLAP (with MUSGx1 mixed in)***, BENITx2, MUSGx2, ALEXx3. MONAZx1, SERENx1
   AB2 = ICY = LTDx1, GRANDx1
@@ -576,7 +579,6 @@ AB1 = ROCKY = ALEXx1
   7A = ROCKY = /
   7B = MR = SERENx2, PLATx1
 
-
 * HYPAA FLYOU IT-G D11-767
   3 = ROCKY = SEREN/ALEX overlap, BENITx1, SERENx1
   5 = MR = /
@@ -584,7 +586,7 @@ AB1 = ROCKY = ALEXx1
   6B = ICY = /
   7 = ICY = TRITx1
   
-
+---bubble break---
 
 * HYPAA FLYOU  
 * HYPAA FLYOU 
@@ -1408,6 +1410,7 @@ AB1 = ROCKY = ALEXx1
     BACTERIUM AURASUS (EMERALD) 
     TUSSOCK PROPAGITO (LIME) 
 
+---bubble break---
 
 
 * HYPAA FLYOU 
