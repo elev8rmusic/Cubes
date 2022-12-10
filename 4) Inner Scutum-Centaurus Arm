@@ -702,14 +702,14 @@ AB1 = ROCKY = ALEXx1
   8B = ICY = TRITx1, BROMx1, LTDx1
 
 * HYPAA FLYOU RJ-Q E5-4288
-  1A = ROCKY = 
-  1B = ROCKY = 
-  2 = ROCKY = 
-  3 = MR = 
-  5A = MR = 
-  5B = MR = 
-  8 = METALLIC = 
-  9 = ROCKY = 
+  1A = ROCKY = /
+  1B = ROCKY = MONAZx1, SERENx1
+  2 = ROCKY = MONAZx2, SERENx1, BENITx1, MUSGx1
+  3 = MR = RHODx1, PLATx1
+  5A = MR = MONAZx1
+  5B = MR = SERENx1, PAINx1, RHODx1
+  8 = METALLIC = /
+  9 = ROCKY = ALEXx1
 
 
 * HYPAA FLYOU 
