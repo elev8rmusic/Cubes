@@ -833,11 +833,11 @@ AB1 = ROCKY = ALEXx1
   4B = ICY = TRITx1, GRANDx1, LTDx1
   
 * HYPAA FLYOU SM-N C22-29
-  8 = ICY = 
-  9A = ROCKY = 
-  9B = ICY = 
-  10A = MR = 
-  10B = ICY = 
+  8 = ICY = BROMx2, ALEXx1, LTDx1
+  9A = ROCKY = /
+  9B = ICY = /
+  10A = MR = /
+  10B = ICY = /
   11 = ICY = 
 
 
@@ -1823,9 +1823,11 @@ AB1 = ROCKY = ALEXx1
 
 * HYPAA FLYOU SM-N C22-29
   11C = 2
-    
+    BACTERIUM VESICULA (CYAN)
+    FONCTIULA CAMPESTRIS (EMERALD)
   11F = 2
-    
+    BACTERIUM VESICULA (CYAN)
+    FONTICULA CAMPESTRIS (EMERALD)
   11G = 1
     
 
