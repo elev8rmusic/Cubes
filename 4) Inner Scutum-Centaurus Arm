@@ -292,6 +292,8 @@ BLU THEIA XY-Y B1-0 (CMDR HARIKU)
 * HYPAA FLYOU XR-E B43-30
   6E = NHSx3 (SENSORx3)
   7F = NHSx1 (SENSORx1)
+* HYPAA FLYOU EN-I D10-1670
+  2A = NHSx1 (SENSORx1)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER SCUTUM-CENTAURUS ARM CUBE#1 RINGS 
