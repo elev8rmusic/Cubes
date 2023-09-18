@@ -1,4 +1,4 @@
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+d10+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 FIRST CUBE
@@ -234,7 +234,7 @@ ORIGIN POINT SYSTEM - HYPAA FLYOU FN-I D10-1671
 *) HYPAA FLYOU EN-I D10-135 (HMTx1, Wx1)
 *) HYPAA FLYOU EN-I D10-3965 (HMTx2, WTx1)
 *) HYPAA FLYOU EN-I D10-2689 (WTx1)
-*) HYPAA FLYOU 
+*) HYPAA FLYOU EN-I D10-116 (HMTx2)
 *) HYPAA FLYOU 
 *) HYPAA FLYOU 
 *) HYPAA FLYOU 
@@ -4354,7 +4354,12 @@ INNER SCUTUM-CENTAURUS ARM CUBE#1 RINGS
     BACTERIUM ACIES (AQUAMARINE)
 
 
-* HYPAA FLYOU 
+* HYPAA FLYOU EN-I D10-116
+  A3 = 1
+    BACTERIUM AURASUS (LIME)
+  A5 = 1
+    
+
 * HYPAA FLYOU 
 * HYPAA FLYOU 
 * HYPAA FLYOU 
