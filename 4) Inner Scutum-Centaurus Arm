@@ -349,6 +349,8 @@ BLU THEIA XY-Y B1-0 (CMDR HARIKU)
   AB4F = NHSx2 (SENSORx2)
 * HYPAA FLYOU D10-3401
   2C = NHSx1 (SENSORx1)
+* HYPAA FLYOU EN-I D10-3022
+  5C = NHSx2 (SENSORx2)
   
 
 *************************************
