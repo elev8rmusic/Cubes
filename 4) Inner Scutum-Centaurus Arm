@@ -2528,15 +2528,16 @@ INNER SCUTUM-CENTAURUS ARM CUBE#1 RINGS
 
 * HYPAA FLYOU KL-P C21-26
   1 = ROCKY = MUSGx1
-  2A = MR = 
-  2B = ROCKY - 
-  3A = MR = 
-  3B = MR = 
-  4 = ICY = 
-  4B = ICY = 
-  5 = ICY = 
-  6 = ICY = 
-  7 = ICY = 
+  2A = MR = PLATx2
+  2B = ROCKY - MONAZx1
+  3A = MR = PAINx1
+  3B = MR = SERENx2
+  4 = ICY = BROMx3, ALEXx1, TRITx1 (10 MT RING = MASSIVE)
+  4B = ICY = /
+  5A = ICY = BENITx1
+  5B = BROMx2, ALEXx2, TRITx3, LTDx3, VOx1
+  6 = ICY = LTDx2, TRITx2, VOx2
+  7 = ICY = VOx2, ALEXx1, BROMx1, LTDx1
 
 
 * HYPAA FLYOU 
